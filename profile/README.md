@@ -1,7 +1,7 @@
 # What is Hyaku?
 [hyaku.slidemovies.org](https://hyaku.slidemovies.org)
 Hyaku is an ad-free anime streaming website.
-Currently scrapes from Zoro.to, GogoAnime,~ and AnimePahe~ but more providers are coming soon!
+Currently scrapes from Zoro.to, GogoAnime, ~and AnimePahe~ but more providers are coming soon!
 
 # Features
 ⭐️ - Mini player, you can watch while browsing anime.
