@@ -9,7 +9,7 @@ Currently scrapes from Zoro.to, GogoAnime, ~and AnimePahe~ but more providers ar
 ⭐️ - Watch2Gether, watch with friends or with other anime enjoyers on the internet
 ⭐️ - No ads, who even likes ads?
 
-#License
+# License
 All repositories within this organization are under the GNU GPLv3 license.
 
 ---
