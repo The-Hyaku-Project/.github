@@ -1,5 +1,6 @@
 # What is <img src="https://raw.githubusercontent.com/The-Hyaku-Project/.github/main/profile/logo.jpeg" style="height:30px;"> Hyaku?
-[hyaku.slidemovies.org](https://hyaku.slidemovies.org)
+[hyaku.eu.org](https://hyaku.eu.org)<br>
+[hyaku.slidemovies.org](https://hyaku.slidemovies.org)<br>
 Hyaku is an ad-free anime streaming website.
 Currently scrapes from Zoro.to, GogoAnime, AnimeNewsNetwork, ~and AnimePahe~ but more providers are coming soon!
 
